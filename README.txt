@@ -1,7 +1,5 @@
 --------------------World of Marcel--------------------
 Nume: Moldovan Daria
-Grupa: 324CC
-Gradul de dificultate(1-easy, 10-tema la sd): 4
 Timp alocat temei: in jur de o saptamana jumate
 
 ---------------------Implementare---------------------
