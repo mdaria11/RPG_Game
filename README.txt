@@ -6,8 +6,9 @@ used various methodologies regarding object-oriented
 programming, such as inheritance, encapsulation and
 polymorphism. I also used the Singleton Pattern for
 the Game and Grid classes (since there should be just
-one object for each class) and Visitor Pattern for 
-applying spells on different entities. 
+one object for each class), Visitor Pattern for 
+applying spells on different entities and Factory
+Pattern for creating the characters.
 
 For parsing accounts and stories for the game I used
 an JSON parser.
