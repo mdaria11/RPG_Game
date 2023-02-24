@@ -1,5 +1,3 @@
---------------------World of Marcel--------------------
-
 This is a RPG type of game made as an assigment for the
 "Object-Oriented Programming" class. In this project I
 used various methodologies regarding object-oriented
