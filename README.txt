@@ -9,6 +9,3 @@ the Game and Grid classes (since there should be just
 one object for each class), Visitor Pattern for 
 applying spells on different entities and Factory
 Pattern for creating the characters.
-
-For parsing accounts and stories for the game I used
-an JSON parser.
