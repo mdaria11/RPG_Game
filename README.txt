@@ -1,4 +1,4 @@
-This is a RPG type of game made as an assigment for the
+This is a RPG type of game made as an assignment for the
 "Object-Oriented Programming" class. In this project I
 used various methodologies regarding object-oriented
 programming, such as inheritance, encapsulation and
